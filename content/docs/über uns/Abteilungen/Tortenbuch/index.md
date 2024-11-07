@@ -4,7 +4,7 @@ draft = false
 title = 'Tortenbuch'
 +++
 
-## Tortenbuch
+## Tortenbuch  
 
 Im Jahr 2020 feierte die KFD in Meerhof ihr 100-jähriges Bestehen. 
 Die Katholische Frauengemeinschaft Deutschlands (KFD) ist ein Verband katholischer Frauen und einer der größten Frauenverbände Deutschlands. Zurück geht dieser auf die ab 1856 gegründeten Bruderschaften christlicher Mütter. 1928 ging aus ihnen der Zentralverband der katholischen Müttervereine hervor, der seit 1968 Katholische Frauengemeinschaft Deutschlands heißt. Die KFD versteht sich als Interessenvertretung für Frauen in Kirche, Politik und Gesellschaft und bietet eine Gemeinschaft für Frauen. [Quelle: Wikipedia v. 29.02.2024] 
