@@ -1,0 +1,15 @@
+{
+  "name": "Klassengeist Meerhof",
+  "short_name": "Klassengeist Meerhof",
+  "start_url": "/Klassengeist/",
+  "scope": "/Klassengeist/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/Klassengeist/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
