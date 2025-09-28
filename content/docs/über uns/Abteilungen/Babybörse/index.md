@@ -45,7 +45,3 @@ Als Belohnung für die tatkräftige Unterstützung an beiden Tagen wird Helfern 
 
 Getreu dem Motto „Viele Hände, schnelles Ende“ freut sich das Organisationsteam jederzeit über neue Helfer, um die langjährige Tradition der Babybörse fortführen zu können und noch viele weitere Projekte und Einrichtungen für Kinder zu unterstützen.
 Bei Interesse folgt dem QR-Code für die WhatsApp Gruppe, in der alle Informationen mitgeteilt werden und man so immer auf dem neusten Stand ist.
-
-
-
-
