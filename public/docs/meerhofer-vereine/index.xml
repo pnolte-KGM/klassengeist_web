@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meerhofer Vereine on Klassengeist Meerhof</title>
-    <link>https://pnolte-kgm.github.io/Klassengeist/docs/meerhofer-vereine/</link>
+    <link>http://localhost:1313/Klassengeist/docs/meerhofer-vereine/</link>
     <description>Recent content in Meerhofer Vereine on Klassengeist Meerhof</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Fri, 01 Nov 2024 18:09:24 +0100</lastBuildDate>
-    <atom:link href="https://pnolte-kgm.github.io/Klassengeist/docs/meerhofer-vereine/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Klassengeist/docs/meerhofer-vereine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nutzer Alte Schule</title>
+      <link>http://localhost:1313/Klassengeist/docs/meerhofer-vereine/nutzer-alte-schule/</link>
+      <pubDate>Fri, 01 Nov 2024 18:09:24 +0100</pubDate>
+      <guid>http://localhost:1313/Klassengeist/docs/meerhofer-vereine/nutzer-alte-schule/</guid>
+      <description>&lt;h2 id=&#34;musikkapelle-1894-meerhof-ev&#34;&gt;&#xD;&#xA;  Musikkapelle 1894 Meerhof e.V.&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#musikkapelle-1894-meerhof-ev&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.musikkapelle-meerhof.de/&#34;&gt;Musikkapelle 1894 Meerhof e.V.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;meerhofer-carnevals-club&#34;&gt;&#xD;&#xA;  Meerhofer Carnevals Club&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#meerhofer-carnevals-club&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/profile.php?id=100069411789843&amp;amp;fref=ts&#34;&gt;Meerhofer Carnevals Club&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>weitere Meerhofer Vereine</title>
-      <link>https://pnolte-kgm.github.io/Klassengeist/docs/meerhofer-vereine/weitere-meerhofer-vereine/</link>
+      <link>http://localhost:1313/Klassengeist/docs/meerhofer-vereine/weitere-meerhofer-vereine/</link>
       <pubDate>Fri, 01 Nov 2024 18:09:24 +0100</pubDate>
-      <guid>https://pnolte-kgm.github.io/Klassengeist/docs/meerhofer-vereine/weitere-meerhofer-vereine/</guid>
+      <guid>http://localhost:1313/Klassengeist/docs/meerhofer-vereine/weitere-meerhofer-vereine/</guid>
       <description>&lt;h3 id=&#34;weitere-meerhofer-vereine-und-gruppierungen&#34;&gt;&#xD;&#xA;  weitere Meerhofer Vereine und Gruppierungen&#xD;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#weitere-meerhofer-vereine-und-gruppierungen&#34;&gt;#&lt;/a&gt;&#xD;&#xA;&lt;/h3&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://www.schuetzenverein-meerhof.de/&#34;&gt;Schützenverein Meerhof e.V.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.musikkapelle-meerhof.de/&#34;&gt;Musikkapelle 1894 Meerhof e.V.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.fw-marsberg.de/lg-meh-aktuelles&#34;&gt;Feuerwehr Marsberg - LG Meerhof&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.bc23meerhof.de/&#34;&gt;Sportverein - BC23 Meerhof e.V.&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.facebook.com/profile.php?id=100069411789843&amp;amp;fref=ts&#34;&gt;Meerhofer Carnevals Club&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>

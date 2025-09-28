@@ -2,6 +2,7 @@
 date = '2024-11-01T18:09:24+01:00'
 draft = false
 title = 'Dorfzeitung'
+weight = 1
 +++
 
 # Nach der Festzeitschrift ist vor der Dorfzeitung …. 

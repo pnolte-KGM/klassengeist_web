@@ -2,7 +2,7 @@
 draft = false
 title = 'Alte Schule mieten'
 menus = 'main'
-weight = 1
+weight = 99
 +++
 
 ### Alte Schule Mieten
