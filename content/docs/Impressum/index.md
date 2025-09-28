@@ -19,7 +19,7 @@ Amtsgericht Arnsberg
 
 **Vertreten durch den Vorstand:**  
 Vors. Dr. Peter Nolte  
-stelv. Vors. Lydia von Rüden - Schäfers  
+stelv. Vors. Nina Stolte  
 Schatzmeisterin Marie-Lena Gockel  
 
 **Kontakt:**  
