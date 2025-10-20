@@ -19,8 +19,8 @@ Die Plätze vor und hinter der „Alten Schule“, sowie die Dorfmitte konnten i
 
 Weitere Zwecke des Vereins sind laut Satzung:
 
-- Gemeinsame Aktionen, Veranstaltungen und Veröffentlichungen zur Dorfgeschichte und Heimatkunde
-- Gemeinschaftliche, generationsübergreifende Initiativen wie etwa die Organisation eines Mehrgenerationentages
-- die Förderung von Maßnahmen zur Errichtung, Gestaltung  und Unterhaltung von Gemeinschaftsräumen und Treffpunkten- insbesondere unter Einbeziehung von Kindern, Jugendlichen und älteren Menschen
-- Informationsarbeit für die Öffentlichkeit, insbesondere durch Unterhaltung einer Homepage oder anderen Informationen zur Information der Dorfgemeinschaft
-- die Förderung der Dorfgemeinschaft in Form eines Bindeglieds der örtlichen Ve
+* Gemeinsame Aktionen, Veranstaltungen und Veröffentlichungen zur Dorfgeschichte und Heimatkunde
+* Gemeinschaftliche, generationsübergreifende Initiativen wie etwa die Organisation eines Mehrgenerationentages
+* die Förderung von Maßnahmen zur Errichtung, Gestaltung  und Unterhaltung von Gemeinschaftsräumen und Treffpunkten- insbesondere unter Einbeziehung von Kindern, Jugendlichen und älteren Menschen
+* Informationsarbeit für die Öffentlichkeit, insbesondere durch Unterhaltung einer Homepage oder anderen Informationen zur Information der Dorfgemeinschaft
+* die Förderung der Dorfgemeinschaft in Form eines Bindeglieds der örtlichen Vereine
