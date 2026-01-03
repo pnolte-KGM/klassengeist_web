@@ -20,5 +20,4 @@ weight = 99
 |07.12.  |Weihnachtsbaumauslieferung und  Dämmershoppen am Feuerwehrhaus
 |28.12.  |Tranditionswanderungen des EGV-Meerhof „Zwischen den Feiertagen“  
 |        |Treffen für beide Wanderungen um 10:00 Uhr vorm Wald
-|        |1. Wanderung zur EGV-Schutzhütte (direkt; ca. 4 km)
-|        |2. Wanderung zur EGV-Schutzhütte (mit „Runde durch den Wald“; ca. 9 km)  
+|        |1. Wanderung zur EGV-Schutzhütte (direkt; ca. 4 km) 
